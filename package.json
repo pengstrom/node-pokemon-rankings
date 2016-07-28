@@ -1,0 +1,8 @@
+{
+  "name": "gym-rankings",
+  "version": "1.0.0",
+  "description": "Display the rankings of nearby gyms.",
+  "main": "index.js",
+  "author": "Per Engström",
+  "license": "GPL-3.0"
+}
